@@ -4,6 +4,7 @@
 ## Requirement
 - numpy
 - scipy
+- cvxopt
 - jupyter
 
 ## Install
