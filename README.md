@@ -12,6 +12,7 @@ sudo yum install python3
 sudo yum install python3-pip
 pip3 install numpy --user
 pip3 install scipy --user
+pip3 install cvxopt --user
 pip3 install jupyter --user
 ```
 
