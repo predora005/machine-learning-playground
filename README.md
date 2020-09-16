@@ -3,6 +3,7 @@
 
 ## Requirement
 - numpy
+- matplotlib
 - scipy
 - cvxopt
 - jupyter
@@ -12,6 +13,7 @@
 sudo yum install python3
 sudo yum install python3-pip
 pip3 install numpy --user
+pip3 install matplotlib --user
 pip3 install scipy --user
 pip3 install cvxopt --user
 pip3 install jupyter --user
@@ -19,7 +21,6 @@ pip3 install jupyter --user
 
 ## Licence
 
-[MIT](https://github.com/predora005/machine-learning-playground/blob/master/LICENSE)
 
 ## Author
 
