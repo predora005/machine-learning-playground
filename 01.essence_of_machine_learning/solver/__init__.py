@@ -5,3 +5,4 @@ from solver.ridge import *
 from solver.polyreg import *
 from solver.lasso import *
 from solver.logisticreg import *
+from solver.svm import *
