@@ -7,3 +7,4 @@ from solver.lasso import *
 from solver.logisticreg import *
 from solver.svm import *
 from solver.kmeans import *
+from solver.pca import *
